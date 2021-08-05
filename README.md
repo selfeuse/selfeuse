@@ -1,8 +1,13 @@
-<h2>Hi there, I'm Cassandre - aka selfeuse 👋</h2>
+<h2 align="center">Hi there, I'm Cassandre - aka selfeuse 👋</h2>
 
-👀 I’m interested in full stack development & project management.\
-🌱 I’m currently learning full stack dev.\
-📫 You can reach me on Twitter or Linkedin.\
+<p align="center">I'm a software dev & junior project manager based at Strasbourg, France</p>
+
+<p>🔭 I’m currently working on Learning development.</p>
+<p>🌱 I’m currently learning React.js, Javascript, Backend with Node and Express.</p>
+<p>📫 You can reach me on Twitter or Linkedin.</p>
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/cassandre-pochet/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/selfeuse)
 
 <h2>Education</h2>
 
@@ -41,9 +46,3 @@
 👨‍💻 Web dev\
 📆 July 2016 - December 2016\
 📍 Actency - Strasbourg, France\
-
-<h2>Connect with me</h2>
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/cassandre-pochet/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/selfeuse)
-
