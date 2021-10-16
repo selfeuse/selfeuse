@@ -6,7 +6,7 @@
 <p>🌱 I’m currently learning React.js, Javascript, Backend with Node and Express.</p>
 <p>📫 You can reach me on Linkedin.</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/selfeuse)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassandre-pochet/)
 
 <h2>Education</h2>
 
