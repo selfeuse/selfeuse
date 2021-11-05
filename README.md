@@ -2,8 +2,8 @@
 
 <p align="center">I'm a software dev & junior project manager based at Strasbourg, France</p>
 
-<p>🔭 I’m currently working on Learning development.</p>
-<p>🌱 I’m currently learning React.js, Javascript, Backend with Node and Express.</p>
+<p>🔭 I love to learn new things about dev everyday.</p>
+<p>🌱 I’m currently working on MERN stack.</p>
 <p>📫 You can reach me on Linkedin.</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassandre-pochet/)
