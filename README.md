@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Cassandre 👋</h2>
 
-<p align="center">I'm a software dev & junior project manager based at Strasbourg, France</p>
+<p align="center">I'm a French fullstack dev & junior project manager based at Montreal, Canada</p>
 
 <p>🔭 I love to learn new things about dev everyday.</p>
 <p>🌱 I’m currently working on MERN stack.</p>
@@ -22,8 +22,12 @@
 
 <h2>Experience</h2>
 
+👨‍💻 Fullstack dev\
+📆 January 2022 - August 2022\
+📍 Stingray - Montreal, Canada
+
 👨‍💻 Software dev & assistant project manager\
-📆 October 2020 - moment\
+📆 October 2020 - December 2021\
 📍 Euro Information - Strasbourg, France
 
 
