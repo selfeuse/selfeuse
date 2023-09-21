@@ -1,9 +1,9 @@
 <h2 align="center">Hi there, I'm Cassandre 👋</h2>
 
-<p align="center">I'm a French fullstack dev & junior project manager based at Montreal, Canada</p>
+<p align="center">I'm a French fullstack dev based at Montreal, Canada</p>
 
 <p>🔭 I love to learn new things about dev everyday.</p>
-<p>🌱 I’m currently working on MERN stack.</p>
+<p>🌱 I’m currently working with Golang and Typescript.</p>
 <p>📫 You can reach me on Linkedin.</p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassandre-pochet/)
@@ -21,6 +21,10 @@
 
 
 <h2>Experience</h2>
+
+👨‍💻 Fullstack dev\
+📆 October 2023 - Now \
+📍 Cookit - Montreal, Canada
 
 👨‍💻 Fullstack dev\
 📆 January 2022 - August 2022\
