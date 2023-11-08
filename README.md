@@ -23,7 +23,7 @@
 <h2>Experience</h2>
 
 👨‍💻 Fullstack dev\
-📆 October 2023 - Now \
+📆 October 2022 - November 2023 \
 📍 Cookit - Montreal, Canada
 
 👨‍💻 Fullstack dev\
